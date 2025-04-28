@@ -22,7 +22,7 @@
     'application': False,
     'auto_install': False,
     'license': 'OPL-1',
-    "price": 10.00,
+    "price": 8.00,
     "currency": "EUR",
     
     "maintainer": "Jony Ghosh",
