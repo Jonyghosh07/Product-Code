@@ -1,5 +1,5 @@
 {
-    'name': 'Product Code Management',
+    'name': 'Auto Product Internal Reference Code',
     'version': '17.0.1.0.0',
     'category': 'Inventory/Products',
     'summary': 'Manage product codes and references',
@@ -22,7 +22,7 @@
     'application': False,
     'auto_install': False,
     'license': 'OPL-1',
-    "price": 39.99,
+    "price": 10.00,
     "currency": "EUR",
     
     "maintainer": "Jony Ghosh",
